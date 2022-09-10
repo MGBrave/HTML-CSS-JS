@@ -15,7 +15,7 @@
 
 |||
 |---|---|
-|Top_wave|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="60" /> |
+|Top_wave|<img src="https://github.com/martageraldo/HTML-CSS-JS/blob/main/wave-top/top-wave.jpg?raw=true" alt="HTML" width="800" height="280" /> |
 
 
 <br>
